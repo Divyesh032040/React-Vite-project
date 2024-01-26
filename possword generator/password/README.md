@@ -1,4 +1,30 @@
-# React + Vite
+# Password Generator
+
+Welcome to the Password Generator project! This React application allows you to effortlessly create secure and customizable passwords through an intuitive user interface.
+
+## Overview
+
+The Password Generator is designed to provide a seamless experience for generating random passwords with tailored specifications.
+
+## Key Features
+
+- **Adjustable Length:** Set the desired length for your passwords.
+- **Number Inclusion:** Choose whether to include numbers in the generated passwords.
+- **Special Characters:** Opt for additional security by including special characters.
+- **Clipboard Copy:** Easily copy generated passwords to the clipboard.
+
+## Getting Started
+
+### Prerequisites
+
+Ensure that you have Node.js and npm installed on your machine.
+
+### Installation
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/password-generator.git
+
 
 ![Screenshot (138)](https://github.com/Divyesh032040/React-Vite-project/assets/127118175/7a62a0c8-fe84-47cd-bb37-5441efdd81b8)
 
