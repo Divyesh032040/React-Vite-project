@@ -34,4 +34,11 @@ Adjust the following settings in the src/App.js file:
 
 ![Screenshot (142)](https://github.com/Divyesh032040/React-Vite-project/assets/127118175/9fd8713b-9d38-4711-8125-4c6957a61c15)
 
+##code
+
+![Screenshot (146)](https://github.com/Divyesh032040/React-Vite-project/assets/127118175/b0968cae-85b5-4c87-89ad-54464d4daff0)
+
+![Screenshot (145)](https://github.com/Divyesh032040/React-Vite-project/assets/127118175/81535472-f04b-4e6e-a9a7-fb8dd5764339)
+
+![Screenshot (144)](https://github.com/Divyesh032040/React-Vite-project/assets/127118175/f83e227f-5a76-40c1-8592-a716f1c7e024)
 
