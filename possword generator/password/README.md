@@ -13,17 +13,15 @@ The Password Generator is designed to provide a seamless experience for generati
 - **Special Characters:** Opt for additional security by including special characters.
 - **Clipboard Copy:** Easily copy generated passwords to the clipboard.
 
-## Getting Started
+## Customization
 
-### Prerequisites
+Adjust the following settings in the src/App.js file:
 
-Ensure that you have Node.js and npm installed on your machine.
+    Length: Set the default length of the generated passwords.
+    IsNumberAllow: Toggle the inclusion of numbers in passwords.
+    IsCharactersAllow: Toggle the inclusion of special characters in passwords.
 
-### Installation
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/password-generator.git
 
 
 ![Screenshot (138)](https://github.com/Divyesh032040/React-Vite-project/assets/127118175/7a62a0c8-fe84-47cd-bb37-5441efdd81b8)
